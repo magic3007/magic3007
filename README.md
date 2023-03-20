@@ -19,6 +19,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=magic3007.magic3007">
 
 <br />
+<br />
 
 Hi, I'm [Jing Mai](https://magic3007.github.io), a second-year Ph.D. student 🚀 in the Department of Computer Science at Peking University associated with [the Center for Energy-Efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/).  I am a member of the [PKU-IDEA](https://github.com/PKU-IDEA) Lab, advised by 👨🏽‍💼Prof. [@Yibo Lin](https://github.com/limbo018).  My research focuses are <b>machine learning-assisted EDA</b>; my broader interests include <b>MLSys</b>, <b>concurrency</b> and <b>probabilistic modeling</b>.  Previously, I received the B.S. degree in Computer Science and Technology from Peking University in 2021.
 
@@ -70,7 +71,7 @@ TODO-IST:START -->
 ✅ Completed 673 tasks so far
 ⏳ Longest streak is 10 days -->
 
-<!-- TODO-IST:END
+<!-- TODO-IST:END -->
 
 📈 my github stats
 
