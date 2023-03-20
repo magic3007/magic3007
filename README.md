@@ -84,10 +84,10 @@ TODO-IST:START -->
   <img src="https://github-readme-stats.vercel.app/api?username=magic3007&count_private=tru&show_icons=true&theme=radical">
 </div>
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" border="0">
   <tr align="center" valign="middle">
-    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=magic3007"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic3007&langs_count=10?hide=html,css,scss&layout=compact&theme=radical"></td>
+    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=magic3007&theme=radical"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic3007&langs_count=10?hide=html,css,scss,VHDL,Verilog&layout=compact&theme=radical"></td>
   </tr>
 </table>
 
