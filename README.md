@@ -84,12 +84,20 @@ TODO-IST:START -->
   <img src="https://github-readme-stats.vercel.app/api?username=magic3007&count_private=tru&show_icons=true&theme=radical">
 </div>
 
-<table cellspacing="0" cellpadding="0" border="0">
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr align="center" valign="middle">
+    <td style="border: none;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=magic3007&theme=radical"></td>
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic3007&langs_count=10?hide=html,css,scss,VHDL,Verilog&layout=compact&theme=radical"></td>
+  </tr>
+</table>
+
+
+<!-- <table cellspacing="0" cellpadding="0" border="0">
   <tr align="center" valign="middle">
     <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=magic3007&theme=radical"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic3007&langs_count=10?hide=html,css,scss,VHDL,Verilog&layout=compact&theme=radical"></td>
   </tr>
-</table>
+</table> -->
 
 <div align=center>
   <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=magic3007&theme=redical">
