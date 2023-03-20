@@ -78,19 +78,19 @@ TODO-IST:START -->
 
 <!-- TODO-IST:END -->
 
-📈 ** my github stats: **
+📈 **my github stats:**
 
 <div align=center>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=magic3007&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=magic3007&count_private=tru&show_icons=true&theme=radical">
 </div>
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
     <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=magic3007"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic3007&langs_count=10?hide=html,css,scss&layout=compact"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic3007&langs_count=10?hide=html,css,scss&layout=compact&theme=radical"></td>
   </tr>
 </table>
 
 <div align=center>
-  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=magic3007">
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=magic3007&theme=redical">
 </div>
