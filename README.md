@@ -1,32 +1,35 @@
-### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+### Hi there 👋
+
+<a href="https://www.instagram.com/magicmai3007/">
+  <img align="left" alt="Jing Mai's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<!-- <a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Magic's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a> -->
+<a href="https://twitter.com/Magic3007Mai">
+  <img align="left" alt="Jing Mai's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/jing-mai-b74549168/">
+  <img align="left" alt="Jing Mai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ&hl=en">
+  <img align="left" alt="Jing Mai's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/googlescholar.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=magic3007.magic3007">
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Jing Mai](https://magic3007.github.io), a second-year Ph.D. student 🚀 in the Department of Computer Science at Peking University associated with [the Center for Energy-Efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/).  I am a member of the [PKU-IDEA](https://github.com/PKU-IDEA) Lab, advised by 👨🏽‍💼Prof. [@Yibo Lin](https://github.com/limbo018).  My research focuses are <b>machine learning-assisted EDA</b>; my broader interests include <b>MLSys</b>, <b>concurrency</b> and <b>probabilistic modeling</b>.  Previously, I received the B.S. degree in Computer Science and Technology from Peking University in 2021.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+  <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+<!-- - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 ask me about anything, i am happy to help; -->
 
-**languages and tools:**  
+<!-- **languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -37,39 +40,51 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
-📊 **this week i spent my time on:**
+<!-- 📊 **this week i spent my time on:** -->
+
 <!--START_SECTION:waka-->
 
-```text
+<!-- ```text
 TypeScript   9 hrs 42 mins   █████████████████████▒░░░   84.94 %
 JavaScript   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 JSON         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 HTML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-```
+``` -->
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<!-- 🚧 **my todoist stats:**
 
+TODO-IST:START -->
+
+<!-- 🏆 7,995 Karma Points
+🌸 Completed 0 tasks today
+✅ Completed 673 tasks so far
+⏳ Longest streak is 10 days -->
+
+<!-- TODO-IST:END
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<div align=center>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=magic3007&count_private=true&theme=react&bg_color=20232A">
+</div>
 
+<table cellspacing="0" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=magic3007&theme=react&bg_color=20232A"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic3007&langs_count=10?hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
+  </tr>
+</table>
 
-
-
+<div align=center>
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=magic3007&theme=react-dark&bg_color=20232A">
+</div>
