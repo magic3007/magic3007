@@ -100,5 +100,5 @@ TODO-IST:START -->
 </table> -->
 
 <div align=center>
-  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=magic3007&theme=redical">
+  <image width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=magic3007&theme=redical">
 </div>
