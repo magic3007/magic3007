@@ -7,13 +7,13 @@
   <img align="left" alt="Magic's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
 <a href="https://twitter.com/Magic3007Mai">
-  <img align="left" alt="Jing Mai's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Jing Mai's Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 <a href="https://www.linkedin.com/in/jing-mai-b74549168/">
-  <img align="left" alt="Jing Mai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jing Mai's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ&hl=en">
-  <img align="left" alt="Jing Mai's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/googlescholar.svg" />
+  <img align="left" alt="Jing Mai's Google Scholar" width="22px" src="https://cdn.simpleicons.org/googlescholar" />
 </a>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=magic3007.magic3007">
