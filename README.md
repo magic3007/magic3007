@@ -6,9 +6,9 @@
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Magic's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
-<a href="https://twitter.com/Magic3007Mai">
+<!-- <a href="https://twitter.com/Magic3007Mai">
   <img align="left" alt="Jing Mai's Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/jing-mai-b74549168/">
   <img align="left" alt="Jing Mai's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
