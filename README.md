@@ -18,14 +18,14 @@
 <br />
 <br />
 
-Hi, I'm [Jing Mai](https://magic3007.github.io), a fourth-year Ph.D. student 🚀 in the Department of Computer Science at Peking University associated with [CECA](https://ceca.pku.edu.cn/).
-I am a member of the [PKU-IDEA](https://github.com/PKU-IDEA) Lab, advised by 👨🏽‍💼Prof. [@Yibo Lin](https://github.com/limbo018).
+Greetings! I'm [Jing Mai](https://magic3007.github.io), a fourth-year Ph.D. candidate 🚀 in the Department of Computer Science at Peking University, affiliated with [CECA](https://ceca.pku.edu.cn/).
+As a member of the [PKU-IDEA](https://github.com/PKU-IDEA) Lab, I have the privilege of being mentored by the distinguished 👨🏽‍💼Prof. [@Yibo Lin](https://github.com/limbo018).
 
-My research focuses are <b>machine learning-assisted EDA</b>; my broader interests include <b>MLSys</b>, <b>concurrency</b> and <b>probabilistic modeling</b>.
+My research endeavors span across cutting-edge domains including <b>design automation</b>, <b>AI for science</b>, <b>GPU-accelerated chip design</b>, <b>efficient AI</b>, and <b>algorithm/hardware co-design</b>.
 
-Previously, I received the B.S. degree in Computer Science and Technology from Peking University in 2021.
+I earned my B.S. degree in Computer Science and Technology from Peking University in 2021.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Beyond academia, I am a fervent open-source advocate and active maintainer. The open-source ecosystem has been instrumental in my growth, and I deeply cherish the collaborative spirit and knowledge exchange that defines this vibrant community.
 
   <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
