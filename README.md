@@ -18,12 +18,12 @@
 <br />
 <br />
 
-Greetings! I'm [Jing Mai](https://magic3007.github.io), a fourth-year Ph.D. candidate 🚀 in the Department of Computer Science at Peking University, affiliated with [CECA](https://ceca.pku.edu.cn/).
+Greetings! I'm [Jing Mai](https://magic3007.github.io), a fourth-year Ph.D. candidate 🚀 in the Department of Computer Science at Peking University, affiliated with [Center for Energy-Efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/).
 As a member of the [PKU-IDEA](https://github.com/PKU-IDEA) Lab, I have the privilege of being mentored by the distinguished 👨🏽‍💼Prof. [@Yibo Lin](https://github.com/limbo018).
 
 My research endeavors span across cutting-edge domains including <b>design automation</b>, <b>AI for science</b>, <b>GPU-accelerated chip design</b>, <b>efficient AI</b>, and <b>algorithm/hardware co-design</b>.
 
-I earned my B.S. degree in Computer Science and Technology from Peking University in 2021.
+I received the B.S. degree in Computer Science and Technology from Peking University in 2021.
 
 Beyond academia, I am a fervent open-source advocate and active maintainer. The open-source ecosystem has been instrumental in my growth, and I deeply cherish the collaborative spirit and knowledge exchange that defines this vibrant community.
 
