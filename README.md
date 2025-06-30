@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/magicmai3007/">
-  <img align="left" alt="Jing Mai's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Magic's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
-<!-- <a href="https://twitter.com/Magic3007Mai">
-  <img align="left" alt="Jing Mai's Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
-</a> -->
+<a href="https://twitter.com/Magic3007Mai">
+  <img align="left" alt="Jing Mai's Twitter" width="25px" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" />
+</a>
 <a href="https://www.linkedin.com/in/jing-mai-b74549168/">
-  <img align="left" alt="Jing Mai's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+  <img align="left" alt="Jing Mai's LinkedIN" width="25px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" />
 </a>
 <a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ&hl=en">
   <img align="left" alt="Jing Mai's Google Scholar" width="22px" src="https://cdn.simpleicons.org/googlescholar" />
@@ -21,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm [Jing Mai](https://magic3007.github.io), a third-year Ph.D. student 🚀 in the Department of Computer Science at Peking University associated with [CECA](https://ceca.pku.edu.cn/).
+Hi, I'm [Jing Mai](https://magic3007.github.io), a fourth-year Ph.D. student 🚀 in the Department of Computer Science at Peking University associated with [CECA](https://ceca.pku.edu.cn/).
 I am a member of the [PKU-IDEA](https://github.com/PKU-IDEA) Lab, advised by 👨🏽‍💼Prof. [@Yibo Lin](https://github.com/limbo018).
 
 My research focuses are <b>machine learning-assisted EDA</b>; my broader interests include <b>MLSys</b>, <b>concurrency</b> and <b>probabilistic modeling</b>.
