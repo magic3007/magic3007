@@ -13,8 +13,10 @@
   <img align="left" alt="Jing Mai's Google Scholar" width="22px" src="https://cdn.simpleicons.org/googlescholar" />
 </a>
 
+<!-- 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=magic3007.magic3007">
-
+ -->
+ 
 <br />
 <br />
 
