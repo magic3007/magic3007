@@ -23,7 +23,7 @@
 Greetings! I'm [Jing Mai](https://magic3007.github.io), a final-year Ph.D. candidate 🚀 in the Department of Computer Science at Peking University, affiliated with [Center for Energy-Efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/).
 As a member of the [PKU-IDEA](https://github.com/PKU-IDEA) Lab, I have the privilege of being mentored by the distinguished 👨🏽‍💼Prof. [@Yibo Lin](https://github.com/limbo018).
 
-My research endeavors span across cutting-edge domains including <b>design automation</b>, <b>AI for science</b>, <b>GPU-accelerated chip design</b>, <b>efficient AI</b>, and <b>algorithm/hardware co-design</b>.
+My research endeavors span across cutting-edge domains including <b>efficient AI</b>, <b>algorithm/hardware co-design</b>, <b>AI for science</b>, and <b>GPU-accelerated chip design</b>.
 
 I received the B.S. degree in Computer Science and Technology from Peking University in 2021.
 
@@ -80,13 +80,13 @@ TODO-IST:START -->
 📈 **my github stats:**
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=magic3007&count_private=tru&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=magic3007&count_private=true&show_icons=true&theme=radical">
 </div>
 
 <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr align="center" valign="middle">
     <td style="border: none;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=magic3007&theme=radical"></td>
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic3007&langs_count=10?hide=html,css,scss,VHDL,Verilog&layout=compact&theme=radical"></td>
+    <td style="border: none;"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=magic3007&langs_count=10&hide=html,css,scss,VHDL,Verilog&layout=compact&theme=radical"></td>
   </tr>
 </table>
 
