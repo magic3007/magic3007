@@ -80,13 +80,13 @@ TODO-IST:START -->
 📈 **my github stats:**
 
 <div align=center>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=magic3007&count_private=true&show_icons=true&theme=radical">
+  <img src="https://github-stats-extended.vercel.app/api?username=magic3007&count_private=true&show_icons=true&theme=radical">
 </div>
 
 <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr align="center" valign="middle">
-    <td style="border: none;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=magic3007&theme=radical"></td>
-    <td style="border: none;"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=magic3007&langs_count=10&hide=html,css,scss,VHDL,Verilog&layout=compact&theme=radical"></td>
+    <td style="border: none;"><img align="left" src="https://streak-stats.demolab.com?user=magic3007&theme=radical"></td>
+    <td style="border: none;"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=magic3007&langs_count=10&hide=html,css,scss,VHDL,Verilog&layout=compact&theme=radical"></td>
   </tr>
 </table>
 
@@ -99,5 +99,5 @@ TODO-IST:START -->
 </table> -->
 
 <div align=center>
-  <image width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=magic3007&theme=redical">
+  <image width="100%" src="https://github-activity-graph.luckylinux.dev/graph?username=magic3007&theme=redical">
 </div>
